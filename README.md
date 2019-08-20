@@ -4,8 +4,8 @@ Setting up a professional React Project with Parcel as a code bundler.
 
 ## Feature
 
-- React
-- ES6 with Babel
+- React :white_check_mark:
+- ES6 with Babel :white_check_mark:
 - SCSS
 - CSS Modules
 - Typography.js
